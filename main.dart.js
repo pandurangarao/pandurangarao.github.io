@@ -8073,9 +8073,9 @@ _.a=c},
 VZ:function VZ(a,b){this.c=a
 this.d=!1
 this.a=b}},F={
-ajr:function(a){var s,r="9108047190606",q="9104048213300",p=H.c([],t.fQ),o=[new F.iE("Bangalore",r),new F.iE("Chennai","9104446314343"),new F.iE("Delhi",r),new F.iE("Hyderabad","9104048213333"),new F.iE("Andhra Pradesh",q),new F.iE("Bhuwaneshwar",q)]
-for(s=0;s<6;++s)p.push(F.akG(o[s],a))
-return p},
+ajr:function(a){var s,r=H.c([],t.fQ),q=[new F.iE("Bangalore","9108047190606"),new F.iE("Chennai","9104446314343"),new F.iE("Delhi","911142249899"),new F.iE("Hyderabad","9104048213333"),new F.iE("Andhra Pradesh","9104048213300"),new F.iE("Bhuwaneshwar","9108047168040")]
+for(s=0;s<6;++s)r.push(F.akG(q[s],a))
+return r},
 akG:function(a,b){var s=null,r=P.bb(30,255,255,255),q=P.bb(20,255,255,255)
 return new V.x5(C.j,15,R.a1Z(!1,!0,T.a1I(H.c([new T.fA(new V.bc(15,15,15,15),L.afo(C.eV,C.x0,24),s),T.x8(L.CL(a.a,A.jg(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,s,!0,s,s,s,s,s,s)),s,s)],t.fQ),C.jY),s,!0,s,s,r,s,s,s,s,s,s,new F.a0F(a),q),s)},
 zP:function zP(a){this.a=a},
@@ -32812,7 +32812,7 @@ $S:1}
 F.qQ.prototype={
 aS:function(){return new F.FO(C.n)}}
 F.FO.prototype={
-P:function(a,b){var s=null,r=U.a5P("swami.jpeg"),q=t.fQ,p=H.c([U.a5P("skctlogo.png")],q),o=L.CL(this.a.c,s),n=L.CL("Sai Krushna Charitable Trust is helping hundreds of people everyday to fight covid by giving them accurate information about various services. Please reach out to us by messaging hello on our helpline numbers and you will get a form asking for more details. Once you fill the form one of our volunteers will reach out to you.",A.jg(s,s,s,s,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s)),m=T.Ty(s,90,s),l=F.ajr(b),k=P.aL([null,0],t.st,t.S),j=l.length
+P:function(a,b){var s=null,r=U.a5P("swami.jpeg"),q=t.fQ,p=H.c([U.a5P("skctlogo.png")],q),o=L.CL(this.a.c,s),n=L.CL("Sai Krushna Charitable Trust is helping hundreds of people everyday to fight covid by giving them accurate information about various services. Please reach out to SKCT by messaging hello on our helpline numbers. We will send a form asking few details. Once you fill the form one of our volunteers will reach out to you.",A.jg(s,s,s,s,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s)),m=T.Ty(s,20,s),l=F.ajr(b),k=P.aL([null,0],t.st,t.S),j=l.length
 q=T.x8(T.a1I(H.c([new T.fA(C.v9,n,s),M.pp(s,T.a1I(H.c([m,new T.fA(new V.bc(8,20,8,0),new B.z_(new B.UJ(2,4,4,2),new G.UF(!0,!0,!0,l,k),s,C.m,!1,s,!1,s,!0,s,j,C.bK,C.xF,s,C.au,s),s)],q),C.jY),s,s,s,s,s,s,s),K.yT(P.xL(79,206,93,1),Z.yz(C.eV,C.j),new F.YD(),"Bangalore Helpline ",C.eS),K.yT(P.xL(79,206,93,1),Z.yz(C.eV,C.j),new F.YE(),"Chennai Helpline    ",C.eS),K.yT(P.xL(79,206,93,1),Z.yz(C.eV,C.j),new F.YF(),"Hyderabad Helpline",C.eS),K.yT(P.xL(79,206,93,1),Z.yz(C.eV,C.j),new F.YG(),"Delhi Helpline           ",C.eS),K.yT(P.xL(79,206,93,1),Z.yz(C.eV,C.j),new F.YH(),"Andhra Helpline        ",C.eS)],q),C.pE),s,s)
 return new M.rQ(new E.oZ(r,o,p,new P.S(1/0,56),s),new T.fA(C.vc,new E.C5(!0,q,s),s),s)}}
 F.YD.prototype={
@@ -32825,7 +32825,7 @@ F.YF.prototype={
 $0:function(){T.jD("https://api.whatsapp.com/send/?phone=9104048213333?text=Hello")},
 $S:1}
 F.YG.prototype={
-$0:function(){T.jD("https://api.whatsapp.com/send/?phone=9101142249899?text=Hello")},
+$0:function(){T.jD("https://api.whatsapp.com/send/?phone=911142249899?text=Hello")},
 $S:1}
 F.YH.prototype={
 $0:function(){T.jD("https://api.whatsapp.com/send/?phone=9104048213300?text=Hello")},
@@ -54198,7 +54198,7 @@ C.lr=new P.aH(6e5)
 C.v7=new P.aH(-38e3)
 C.eQ=new V.bc(0,0,0,0)
 C.v8=new V.bc(16,0,16,0)
-C.v9=new V.bc(20,12,20,50)
+C.v9=new V.bc(20,12,20,10)
 C.va=new V.bc(24,0,24,0)
 C.oW=new V.bc(4,4,4,4)
 C.vb=new V.bc(8,0,8,0)
