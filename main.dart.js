@@ -32709,7 +32709,8 @@ if(q<r){l=k.nx(q)
 if(s.$2(a,l)>0){C.b.m(k.b,b,l)
 b=q}}C.b.m(k.b,b,a)}}
 F.zA.prototype={
-R:function(a,b){return new S.qw(new F.qJ("Sri Krushna Charitable Trust",null),"SKCT Helpline",X.a6I(null,C.mk),!1,null)}}
+R:function(a,b){var s="SKCT Helpline"
+return new S.qw(new F.qJ(s,null),s,X.a6I(null,C.mk),!1,null)}}
 F.iD.prototype={
 gaa:function(a){return this.a}}
 F.a09.prototype={
