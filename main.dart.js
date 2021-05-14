@@ -32447,13 +32447,13 @@ F.Xo.prototype={
 $0:function(){T.lb("https://api.whatsapp.com/send/?phone=9104446314343?text=Hello")},
 $S:1}
 F.Xp.prototype={
-$0:function(){T.lb("https://api.whatsapp.com/send/?phone=9104048213300?text=Hello")},
+$0:function(){T.lb("https://api.whatsapp.com/send/?phone=9104048213333?text=Hello")},
 $S:1}
 F.Xq.prototype={
 $0:function(){T.lb("https://api.whatsapp.com/send/?phone=911142249899?text=Hello")},
 $S:1}
 F.Xr.prototype={
-$0:function(){T.lb("https://api.whatsapp.com/send/?phone=0804048213300?text=Hello")},
+$0:function(){T.lb("https://api.whatsapp.com/send/?phone=9104048213300?text=Hello")},
 $S:1}
 X.d0.prototype={
 i:function(a){return this.b}}
@@ -52424,7 +52424,7 @@ C.lj=new P.aB(6e5)
 C.uR=new P.aB(-38e3)
 C.eP=new V.bq(0,0,0,0)
 C.uS=new V.bq(16,0,16,0)
-C.uT=new V.bq(20,0,20,50)
+C.uT=new V.bq(20,8,20,50)
 C.uU=new V.bq(24,0,24,0)
 C.uV=new V.bq(4,4,4,4)
 C.uW=new V.bq(8,0,8,0)
